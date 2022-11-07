@@ -1,4 +1,4 @@
-#Introdução ao Linux
+# Introdução ao Linux
 
 Para quem está começando, esta será uma área que a princípio parecerá bastante complicada. O Linux pode demorar um pouco para se familiarizar, mas vale a pena o investimento para se familiarizar com ele.
 
