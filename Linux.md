@@ -1,3 +1,4 @@
+[Voltar pro início](/README.md)
 # Introdução ao Linux
 
 Para quem está começando, esta será uma área que a princípio parecerá bastante complicada. O Linux pode demorar um pouco para se familiarizar, mas vale a pena o investimento para se familiarizar com ele.
@@ -477,3 +478,4 @@ Apesar de ainda ser do tempo do `apt-get` hehe, então sempre que você precisar
 ## Root
   Apesar de não se tratar de um comando, `root` é o usuário com maior privilégio do sistema Linux, logo, acesso root a um sistema significa que você possui mais permissões dos usuários, logo, suas ações como usuário root precisam ser bem cautelosas para não executar nenhuma besteira. De maneira geral, prefira sempre utilizar um usuário comum e utilize o `sudo` para executar ou instalar pacotes no sistema.
 
+[Voltar pro início](/README.md)
